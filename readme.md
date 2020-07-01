@@ -1,1 +1,1 @@
-#List of assignment for samsung junior software!
+# List of assignment for samsung junior software!
